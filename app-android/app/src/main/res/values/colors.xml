@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="verdePrincipal">#FF008746</color>
+    <color name="verdeClaro">#FF00DE73</color> <color name="verdeMedio">#FF00B55E</color>
+    <color name="verdeOscuro">#FF003B1E</color>
+    <color name="verdeIntermedio">#FF006333</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="fondoDark">#121212</color>
+    <color name="superficieDark">#1E1E1E</color> <color name="textoDark">#E0E0E0</color>
+    <color name="grisBordeLight">#CCCCCC</color>
+    <color name="grisBordeDark">#333333</color>
+</resources>

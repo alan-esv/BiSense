@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.github.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    tools:context=".GraphsFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Actividad Reciente"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginTop="12dp"
+        android:textColor="?attr/colorPrimary" />
+
+    <Space android:layout_width="match_parent" android:layout_height="16dp" />
+    <Space android:layout_width="match_parent" android:layout_height="8dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginBottom="16dp">
+
+        <Button
+            android:id="@+id/btnCombined"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Combinado"
+            style="@style/Widget.App.Button.Outlined"
+            android:padding="8dp"/>
+
+        <Button
+            android:id="@+id/btnConsumption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Consumo"
+            style="@style/Widget.App.Button.Outlined"
+            android:layout_marginStart="8dp"
+            android:padding="8dp"/>
+
+        <Button
+            android:id="@+id/btnInjection"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Inyección"
+            style="@style/Widget.App.Button.Outlined"
+            android:layout_marginStart="8dp"
+            android:padding="8dp"/>
+    </LinearLayout>
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/lineChart"
+        android:layout_width="match_parent"
+        android:layout_height="300dp" />
+
+    <TextView
+        android:id="@+id/tvStatusGrafica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cargando datos..."
+        android:textAlignment="center"
+        android:layout_marginTop="8dp"
+        android:textColor="?android:textColorSecondary"/>
+
+    <ImageButton
+        android:id="@+id/btnRefresh"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@android:drawable/ic_popup_sync"
+        app:tint="#008746"
+        android:contentDescription="Actualizar"
+        android:scaleType="fitCenter"
+        android:padding="8dp"/>
+
+</LinearLayout>
