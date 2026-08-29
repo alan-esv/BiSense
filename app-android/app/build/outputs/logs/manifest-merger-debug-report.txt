@@ -1,0 +1,630 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.google.android.material:material:1.10.0] E:\Java JDK\caches\8.13\transforms\f318422f32ac9f8fb2a4e340186deff5\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Java JDK\caches\8.13\transforms\1d93be18a1e17fac837002a13f654d5a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] E:\Java JDK\caches\8.13\transforms\389f368635708d0113cfb074976952c8\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] E:\Java JDK\caches\8.13\transforms\de1c2c07dc7a922a2551f7bb92e0b763\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\Java JDK\caches\8.13\transforms\261a9f3e322a7e57a4ea86849635dd30\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\5617496c07d7a98689d7ffcb04b20a4a\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] E:\Java JDK\caches\8.13\transforms\ef4a3e8d9959e3cdca4118926e4f2300\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\Java JDK\caches\8.13\transforms\559b9477cccfb5d0c8924bf692b27d3a\transformed\recaptcha-18.6.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] E:\Java JDK\caches\8.13\transforms\37206a87fc0b50a92696cc7e2a8adb4a\transformed\integrity-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] E:\Java JDK\caches\8.13\transforms\8b3826ca2d7d9ba91083bc0f124513a5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] E:\Java JDK\caches\8.13\transforms\3305942b732a86278c95353f318f89dd\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] E:\Java JDK\caches\8.13\transforms\806a31f29c7b5ff3ef64b7810f1623b0\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] E:\Java JDK\caches\8.13\transforms\da43bc6af2fc249cb33239a55fd53e87\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] E:\Java JDK\caches\8.13\transforms\4c1a373bf81537b8baf572303bb876b8\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] E:\Java JDK\caches\8.13\transforms\f977ec8a52b07a8aec3761aa94e113c8\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] E:\Java JDK\caches\8.13\transforms\df96795e001fea0666c76fe4f730486a\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] E:\Java JDK\caches\8.13\transforms\76ed9ed463e088c9701f3ab72ff6d76a\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] E:\Java JDK\caches\8.13\transforms\e21fbfb79c9cf48bcadb5deb4e6fb1d5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Java JDK\caches\8.13\transforms\31069056cc5532b2f655947bc52c174d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] E:\Java JDK\caches\8.13\transforms\2e11420da838e3f7455d2d709848b2e4\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] E:\Java JDK\caches\8.13\transforms\c216d0023e5f7be7cb857e9d21cd015f\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\Java JDK\caches\8.13\transforms\a14cd34365a98cecc48e24b82e220495\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] E:\Java JDK\caches\8.13\transforms\7e8ae46354c200b0c4dce9a5a81316f6\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Java JDK\caches\8.13\transforms\812b6c85e2ee4157313a76e53aef3a75\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] E:\Java JDK\caches\8.13\transforms\67d51bf381d89799f21189ccbab6bb15\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] E:\Java JDK\caches\8.13\transforms\6b7def807b6e4398f4858ad379342038\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] E:\Java JDK\caches\8.13\transforms\8dbb6454c622c761e5da7756f3db375b\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] E:\Java JDK\caches\8.13\transforms\43ab3f82bd3c64391b57666597a293f2\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] E:\Java JDK\caches\8.13\transforms\caf2d6b51498a65bd09617c19ceb91db\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] E:\Java JDK\caches\8.13\transforms\394c105eb65cb3974b98bbc4207791e0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.3.6] E:\Java JDK\caches\8.13\transforms\59f42d8976fc14095e5c36bcb348281e\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] E:\Java JDK\caches\8.13\transforms\b934dd451b004fcb37a50169f6fc6f01\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] E:\Java JDK\caches\8.13\transforms\63089d366a47dba8d2eedd6fec795a24\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\Java JDK\caches\8.13\transforms\7472155e97df199a4358d7981664edd2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] E:\Java JDK\caches\8.13\transforms\6e1756d32d3b98a13074a8d486433d0a\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Java JDK\caches\8.13\transforms\52f554e53fa34e75455df3be63e1fa71\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Java JDK\caches\8.13\transforms\c58982fb27287148ae1d1ea44ecf8fc8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] E:\Java JDK\caches\8.13\transforms\c94d7c95de24df56b15b3a2990c04684\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Java JDK\caches\8.13\transforms\9a6d7b39c69ae73e967e6777f60b2391\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\Java JDK\caches\8.13\transforms\e79ba35a5a4c28fbad89aa4dfddb1a6e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] E:\Java JDK\caches\8.13\transforms\e13c9b2385b90f8405e330e84de303f9\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.10.1] E:\Java JDK\caches\8.13\transforms\0f4365762b449384f1e23952b35e8433\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] E:\Java JDK\caches\8.13\transforms\4386e332427c0f0edd0722534a4fc072\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] E:\Java JDK\caches\8.13\transforms\1b7d10365158719819ae79239ddc0f0a\transformed\googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cardview:cardview:1.0.0] E:\Java JDK\caches\8.13\transforms\f554e6550752ffef2d64d91bc4a2009d\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] E:\Java JDK\caches\8.13\transforms\f0cf61ae026db1059d79671202d19eb3\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\Java JDK\caches\8.13\transforms\04f352ded937c060d772d2e0f58ba4c3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Java JDK\caches\8.13\transforms\c321c048e74476586d62ea97e644cd5b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] E:\Java JDK\caches\8.13\transforms\2aa6fd0b0a5162600c3203cf20e009d4\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\Java JDK\caches\8.13\transforms\86dc5230af3ef23869979f7aaf6cd173\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] E:\Java JDK\caches\8.13\transforms\7edc03da803e1f25e45a976a90384103\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Java JDK\caches\8.13\transforms\2b35b9991ad0b1c7025e6543e40ef018\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Java JDK\caches\8.13\transforms\dcc81f3c50fffa8bcce8767be4e0ee44\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Java JDK\caches\8.13\transforms\6e75c8a28dad199a67fe9772ad7dd9f1\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\Java JDK\caches\8.13\transforms\954369a7eebf362207a8eed2a61ab5dd\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] E:\Java JDK\caches\8.13\transforms\9105ffa4eb5e22e1402cab9d3310a8f1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.57.2] E:\Java JDK\caches\8.13\transforms\4fad97367457994d6736247e2256776d\transformed\grpc-android-1.57.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.play:core-common:2.0.3] E:\Java JDK\caches\8.13\transforms\075ac8668ebc0dfb67d8da7c6a091d28\transformed\core-common-2.0.3\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] E:\Java JDK\caches\8.13\transforms\9505ef79d9a21652433f01ec8608ab04\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:5:5-33:19
+INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.google.android.material:material:1.10.0] E:\Java JDK\caches\8.13\transforms\f318422f32ac9f8fb2a4e340186deff5\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] E:\Java JDK\caches\8.13\transforms\f318422f32ac9f8fb2a4e340186deff5\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Java JDK\caches\8.13\transforms\1d93be18a1e17fac837002a13f654d5a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Java JDK\caches\8.13\transforms\1d93be18a1e17fac837002a13f654d5a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:28:5-73:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.3.0] E:\Java JDK\caches\8.13\transforms\37206a87fc0b50a92696cc7e2a8adb4a\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] E:\Java JDK\caches\8.13\transforms\37206a87fc0b50a92696cc7e2a8adb4a\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] E:\Java JDK\caches\8.13\transforms\8b3826ca2d7d9ba91083bc0f124513a5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] E:\Java JDK\caches\8.13\transforms\8b3826ca2d7d9ba91083bc0f124513a5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] E:\Java JDK\caches\8.13\transforms\3305942b732a86278c95353f318f89dd\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] E:\Java JDK\caches\8.13\transforms\3305942b732a86278c95353f318f89dd\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] E:\Java JDK\caches\8.13\transforms\806a31f29c7b5ff3ef64b7810f1623b0\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] E:\Java JDK\caches\8.13\transforms\806a31f29c7b5ff3ef64b7810f1623b0\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] E:\Java JDK\caches\8.13\transforms\da43bc6af2fc249cb33239a55fd53e87\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] E:\Java JDK\caches\8.13\transforms\da43bc6af2fc249cb33239a55fd53e87\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] E:\Java JDK\caches\8.13\transforms\4c1a373bf81537b8baf572303bb876b8\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] E:\Java JDK\caches\8.13\transforms\4c1a373bf81537b8baf572303bb876b8\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] E:\Java JDK\caches\8.13\transforms\76ed9ed463e088c9701f3ab72ff6d76a\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] E:\Java JDK\caches\8.13\transforms\76ed9ed463e088c9701f3ab72ff6d76a\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Java JDK\caches\8.13\transforms\812b6c85e2ee4157313a76e53aef3a75\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Java JDK\caches\8.13\transforms\812b6c85e2ee4157313a76e53aef3a75\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] E:\Java JDK\caches\8.13\transforms\caf2d6b51498a65bd09617c19ceb91db\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] E:\Java JDK\caches\8.13\transforms\caf2d6b51498a65bd09617c19ceb91db\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] E:\Java JDK\caches\8.13\transforms\394c105eb65cb3974b98bbc4207791e0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] E:\Java JDK\caches\8.13\transforms\394c105eb65cb3974b98bbc4207791e0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Java JDK\caches\8.13\transforms\c321c048e74476586d62ea97e644cd5b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Java JDK\caches\8.13\transforms\c321c048e74476586d62ea97e644cd5b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Java JDK\caches\8.13\transforms\dcc81f3c50fffa8bcce8767be4e0ee44\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Java JDK\caches\8.13\transforms\dcc81f3c50fffa8bcce8767be4e0ee44\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core-common:2.0.3] E:\Java JDK\caches\8.13\transforms\075ac8668ebc0dfb67d8da7c6a091d28\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] E:\Java JDK\caches\8.13\transforms\075ac8668ebc0dfb67d8da7c6a091d28\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:13:9-56
+	android:dataExtractionRules
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.myapplicationbetat.WelcomeActivity
+ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:exported
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:15:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.myapplicationbetat.RegisterActivity
+ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:24:13-45
+activity#com.example.myapplicationbetat.LoginActivity
+ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:27:13-42
+activity#com.example.myapplicationbetat.MainActivity
+ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml:31:13-41
+uses-sdk
+INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.10.0] E:\Java JDK\caches\8.13\transforms\f318422f32ac9f8fb2a4e340186deff5\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] E:\Java JDK\caches\8.13\transforms\f318422f32ac9f8fb2a4e340186deff5\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Java JDK\caches\8.13\transforms\1d93be18a1e17fac837002a13f654d5a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Java JDK\caches\8.13\transforms\1d93be18a1e17fac837002a13f654d5a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] E:\Java JDK\caches\8.13\transforms\389f368635708d0113cfb074976952c8\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] E:\Java JDK\caches\8.13\transforms\389f368635708d0113cfb074976952c8\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] E:\Java JDK\caches\8.13\transforms\de1c2c07dc7a922a2551f7bb92e0b763\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] E:\Java JDK\caches\8.13\transforms\de1c2c07dc7a922a2551f7bb92e0b763\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\Java JDK\caches\8.13\transforms\261a9f3e322a7e57a4ea86849635dd30\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\Java JDK\caches\8.13\transforms\261a9f3e322a7e57a4ea86849635dd30\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\5617496c07d7a98689d7ffcb04b20a4a\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\5617496c07d7a98689d7ffcb04b20a4a\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] E:\Java JDK\caches\8.13\transforms\ef4a3e8d9959e3cdca4118926e4f2300\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] E:\Java JDK\caches\8.13\transforms\ef4a3e8d9959e3cdca4118926e4f2300\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\Java JDK\caches\8.13\transforms\559b9477cccfb5d0c8924bf692b27d3a\transformed\recaptcha-18.6.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\Java JDK\caches\8.13\transforms\559b9477cccfb5d0c8924bf692b27d3a\transformed\recaptcha-18.6.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] E:\Java JDK\caches\8.13\transforms\37206a87fc0b50a92696cc7e2a8adb4a\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] E:\Java JDK\caches\8.13\transforms\37206a87fc0b50a92696cc7e2a8adb4a\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] E:\Java JDK\caches\8.13\transforms\8b3826ca2d7d9ba91083bc0f124513a5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] E:\Java JDK\caches\8.13\transforms\8b3826ca2d7d9ba91083bc0f124513a5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] E:\Java JDK\caches\8.13\transforms\3305942b732a86278c95353f318f89dd\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] E:\Java JDK\caches\8.13\transforms\3305942b732a86278c95353f318f89dd\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] E:\Java JDK\caches\8.13\transforms\806a31f29c7b5ff3ef64b7810f1623b0\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] E:\Java JDK\caches\8.13\transforms\806a31f29c7b5ff3ef64b7810f1623b0\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] E:\Java JDK\caches\8.13\transforms\da43bc6af2fc249cb33239a55fd53e87\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] E:\Java JDK\caches\8.13\transforms\da43bc6af2fc249cb33239a55fd53e87\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] E:\Java JDK\caches\8.13\transforms\4c1a373bf81537b8baf572303bb876b8\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] E:\Java JDK\caches\8.13\transforms\4c1a373bf81537b8baf572303bb876b8\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] E:\Java JDK\caches\8.13\transforms\f977ec8a52b07a8aec3761aa94e113c8\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] E:\Java JDK\caches\8.13\transforms\f977ec8a52b07a8aec3761aa94e113c8\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] E:\Java JDK\caches\8.13\transforms\df96795e001fea0666c76fe4f730486a\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] E:\Java JDK\caches\8.13\transforms\df96795e001fea0666c76fe4f730486a\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] E:\Java JDK\caches\8.13\transforms\76ed9ed463e088c9701f3ab72ff6d76a\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] E:\Java JDK\caches\8.13\transforms\76ed9ed463e088c9701f3ab72ff6d76a\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] E:\Java JDK\caches\8.13\transforms\e21fbfb79c9cf48bcadb5deb4e6fb1d5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] E:\Java JDK\caches\8.13\transforms\e21fbfb79c9cf48bcadb5deb4e6fb1d5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Java JDK\caches\8.13\transforms\31069056cc5532b2f655947bc52c174d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Java JDK\caches\8.13\transforms\31069056cc5532b2f655947bc52c174d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\Java JDK\caches\8.13\transforms\2e11420da838e3f7455d2d709848b2e4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\Java JDK\caches\8.13\transforms\2e11420da838e3f7455d2d709848b2e4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] E:\Java JDK\caches\8.13\transforms\c216d0023e5f7be7cb857e9d21cd015f\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] E:\Java JDK\caches\8.13\transforms\c216d0023e5f7be7cb857e9d21cd015f\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\Java JDK\caches\8.13\transforms\a14cd34365a98cecc48e24b82e220495\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\Java JDK\caches\8.13\transforms\a14cd34365a98cecc48e24b82e220495\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] E:\Java JDK\caches\8.13\transforms\7e8ae46354c200b0c4dce9a5a81316f6\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] E:\Java JDK\caches\8.13\transforms\7e8ae46354c200b0c4dce9a5a81316f6\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Java JDK\caches\8.13\transforms\812b6c85e2ee4157313a76e53aef3a75\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Java JDK\caches\8.13\transforms\812b6c85e2ee4157313a76e53aef3a75\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] E:\Java JDK\caches\8.13\transforms\67d51bf381d89799f21189ccbab6bb15\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] E:\Java JDK\caches\8.13\transforms\67d51bf381d89799f21189ccbab6bb15\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] E:\Java JDK\caches\8.13\transforms\6b7def807b6e4398f4858ad379342038\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] E:\Java JDK\caches\8.13\transforms\6b7def807b6e4398f4858ad379342038\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] E:\Java JDK\caches\8.13\transforms\8dbb6454c622c761e5da7756f3db375b\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] E:\Java JDK\caches\8.13\transforms\8dbb6454c622c761e5da7756f3db375b\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] E:\Java JDK\caches\8.13\transforms\43ab3f82bd3c64391b57666597a293f2\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] E:\Java JDK\caches\8.13\transforms\43ab3f82bd3c64391b57666597a293f2\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] E:\Java JDK\caches\8.13\transforms\caf2d6b51498a65bd09617c19ceb91db\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] E:\Java JDK\caches\8.13\transforms\caf2d6b51498a65bd09617c19ceb91db\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] E:\Java JDK\caches\8.13\transforms\394c105eb65cb3974b98bbc4207791e0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] E:\Java JDK\caches\8.13\transforms\394c105eb65cb3974b98bbc4207791e0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] E:\Java JDK\caches\8.13\transforms\59f42d8976fc14095e5c36bcb348281e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] E:\Java JDK\caches\8.13\transforms\59f42d8976fc14095e5c36bcb348281e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] E:\Java JDK\caches\8.13\transforms\b934dd451b004fcb37a50169f6fc6f01\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] E:\Java JDK\caches\8.13\transforms\b934dd451b004fcb37a50169f6fc6f01\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] E:\Java JDK\caches\8.13\transforms\63089d366a47dba8d2eedd6fec795a24\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] E:\Java JDK\caches\8.13\transforms\63089d366a47dba8d2eedd6fec795a24\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\Java JDK\caches\8.13\transforms\7472155e97df199a4358d7981664edd2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\Java JDK\caches\8.13\transforms\7472155e97df199a4358d7981664edd2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] E:\Java JDK\caches\8.13\transforms\6e1756d32d3b98a13074a8d486433d0a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] E:\Java JDK\caches\8.13\transforms\6e1756d32d3b98a13074a8d486433d0a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Java JDK\caches\8.13\transforms\52f554e53fa34e75455df3be63e1fa71\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Java JDK\caches\8.13\transforms\52f554e53fa34e75455df3be63e1fa71\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Java JDK\caches\8.13\transforms\c58982fb27287148ae1d1ea44ecf8fc8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Java JDK\caches\8.13\transforms\c58982fb27287148ae1d1ea44ecf8fc8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] E:\Java JDK\caches\8.13\transforms\c94d7c95de24df56b15b3a2990c04684\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] E:\Java JDK\caches\8.13\transforms\c94d7c95de24df56b15b3a2990c04684\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Java JDK\caches\8.13\transforms\9a6d7b39c69ae73e967e6777f60b2391\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Java JDK\caches\8.13\transforms\9a6d7b39c69ae73e967e6777f60b2391\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\Java JDK\caches\8.13\transforms\e79ba35a5a4c28fbad89aa4dfddb1a6e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\Java JDK\caches\8.13\transforms\e79ba35a5a4c28fbad89aa4dfddb1a6e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] E:\Java JDK\caches\8.13\transforms\e13c9b2385b90f8405e330e84de303f9\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] E:\Java JDK\caches\8.13\transforms\e13c9b2385b90f8405e330e84de303f9\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] E:\Java JDK\caches\8.13\transforms\0f4365762b449384f1e23952b35e8433\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] E:\Java JDK\caches\8.13\transforms\0f4365762b449384f1e23952b35e8433\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] E:\Java JDK\caches\8.13\transforms\4386e332427c0f0edd0722534a4fc072\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] E:\Java JDK\caches\8.13\transforms\4386e332427c0f0edd0722534a4fc072\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] E:\Java JDK\caches\8.13\transforms\1b7d10365158719819ae79239ddc0f0a\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] E:\Java JDK\caches\8.13\transforms\1b7d10365158719819ae79239ddc0f0a\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] E:\Java JDK\caches\8.13\transforms\f554e6550752ffef2d64d91bc4a2009d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] E:\Java JDK\caches\8.13\transforms\f554e6550752ffef2d64d91bc4a2009d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] E:\Java JDK\caches\8.13\transforms\f0cf61ae026db1059d79671202d19eb3\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] E:\Java JDK\caches\8.13\transforms\f0cf61ae026db1059d79671202d19eb3\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\Java JDK\caches\8.13\transforms\04f352ded937c060d772d2e0f58ba4c3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\Java JDK\caches\8.13\transforms\04f352ded937c060d772d2e0f58ba4c3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Java JDK\caches\8.13\transforms\c321c048e74476586d62ea97e644cd5b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Java JDK\caches\8.13\transforms\c321c048e74476586d62ea97e644cd5b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] E:\Java JDK\caches\8.13\transforms\2aa6fd0b0a5162600c3203cf20e009d4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] E:\Java JDK\caches\8.13\transforms\2aa6fd0b0a5162600c3203cf20e009d4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\Java JDK\caches\8.13\transforms\86dc5230af3ef23869979f7aaf6cd173\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\Java JDK\caches\8.13\transforms\86dc5230af3ef23869979f7aaf6cd173\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] E:\Java JDK\caches\8.13\transforms\7edc03da803e1f25e45a976a90384103\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] E:\Java JDK\caches\8.13\transforms\7edc03da803e1f25e45a976a90384103\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Java JDK\caches\8.13\transforms\2b35b9991ad0b1c7025e6543e40ef018\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Java JDK\caches\8.13\transforms\2b35b9991ad0b1c7025e6543e40ef018\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Java JDK\caches\8.13\transforms\dcc81f3c50fffa8bcce8767be4e0ee44\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Java JDK\caches\8.13\transforms\dcc81f3c50fffa8bcce8767be4e0ee44\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Java JDK\caches\8.13\transforms\6e75c8a28dad199a67fe9772ad7dd9f1\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Java JDK\caches\8.13\transforms\6e75c8a28dad199a67fe9772ad7dd9f1\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\Java JDK\caches\8.13\transforms\954369a7eebf362207a8eed2a61ab5dd\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\Java JDK\caches\8.13\transforms\954369a7eebf362207a8eed2a61ab5dd\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] E:\Java JDK\caches\8.13\transforms\9105ffa4eb5e22e1402cab9d3310a8f1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] E:\Java JDK\caches\8.13\transforms\9105ffa4eb5e22e1402cab9d3310a8f1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] E:\Java JDK\caches\8.13\transforms\4fad97367457994d6736247e2256776d\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] E:\Java JDK\caches\8.13\transforms\4fad97367457994d6736247e2256776d\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] E:\Java JDK\caches\8.13\transforms\075ac8668ebc0dfb67d8da7c6a091d28\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] E:\Java JDK\caches\8.13\transforms\075ac8668ebc0dfb67d8da7c6a091d28\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] E:\Java JDK\caches\8.13\transforms\9505ef79d9a21652433f01ec8608ab04\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] E:\Java JDK\caches\8.13\transforms\9505ef79d9a21652433f01ec8608ab04\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\Java JDK\caches\8.13\transforms\559b9477cccfb5d0c8924bf692b27d3a\transformed\recaptcha-18.6.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\Java JDK\caches\8.13\transforms\559b9477cccfb5d0c8924bf692b27d3a\transformed\recaptcha-18.6.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\Java JDK\caches\8.13\transforms\559b9477cccfb5d0c8924bf692b27d3a\transformed\recaptcha-18.6.1\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\Java JDK\caches\8.13\transforms\559b9477cccfb5d0c8924bf692b27d3a\transformed\recaptcha-18.6.1\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] E:\Java JDK\caches\8.13\transforms\4fad97367457994d6736247e2256776d\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] E:\Java JDK\caches\8.13\transforms\4fad97367457994d6736247e2256776d\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] E:\Java JDK\caches\8.13\transforms\8b3826ca2d7d9ba91083bc0f124513a5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] E:\Java JDK\caches\8.13\transforms\8b3826ca2d7d9ba91083bc0f124513a5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] E:\Java JDK\caches\8.13\transforms\da43bc6af2fc249cb33239a55fd53e87\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] E:\Java JDK\caches\8.13\transforms\da43bc6af2fc249cb33239a55fd53e87\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\Java JDK\caches\8.13\transforms\2f3fe9b7be7c961d76a30ad17ce03e95\transformed\firebase-auth-24.0.1\AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] E:\Java JDK\caches\8.13\transforms\e56e36bcd1d6181395e0435fba91cda7\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Java JDK\caches\8.13\transforms\ce3c0bc7c5fb38c867a650e11e2533c7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\Java JDK\caches\8.13\transforms\559b9477cccfb5d0c8924bf692b27d3a\transformed\recaptcha-18.6.1\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\Java JDK\caches\8.13\transforms\559b9477cccfb5d0c8924bf692b27d3a\transformed\recaptcha-18.6.1\AndroidManifest.xml:9:22-95
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:25.0.0] E:\Java JDK\caches\8.13\transforms\8b3826ca2d7d9ba91083bc0f124513a5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.0.0] E:\Java JDK\caches\8.13\transforms\8b3826ca2d7d9ba91083bc0f124513a5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.0.0] E:\Java JDK\caches\8.13\transforms\8b3826ca2d7d9ba91083bc0f124513a5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:13:17-129
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] E:\Java JDK\caches\8.13\transforms\f7a77d26323715c3baa1d85daf0d35eb\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] E:\Java JDK\caches\8.13\transforms\da43bc6af2fc249cb33239a55fd53e87\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] E:\Java JDK\caches\8.13\transforms\da43bc6af2fc249cb33239a55fd53e87\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] E:\Java JDK\caches\8.13\transforms\da43bc6af2fc249cb33239a55fd53e87\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\Java JDK\caches\8.13\transforms\750238b3956bfe3cfaa6e38607993845\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] E:\Java JDK\caches\8.13\transforms\76ed9ed463e088c9701f3ab72ff6d76a\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] E:\Java JDK\caches\8.13\transforms\76ed9ed463e088c9701f3ab72ff6d76a\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] E:\Java JDK\caches\8.13\transforms\76ed9ed463e088c9701f3ab72ff6d76a\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] E:\Java JDK\caches\8.13\transforms\76ed9ed463e088c9701f3ab72ff6d76a\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Java JDK\caches\8.13\transforms\812b6c85e2ee4157313a76e53aef3a75\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Java JDK\caches\8.13\transforms\812b6c85e2ee4157313a76e53aef3a75\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Java JDK\caches\8.13\transforms\c321c048e74476586d62ea97e644cd5b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Java JDK\caches\8.13\transforms\c321c048e74476586d62ea97e644cd5b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Java JDK\caches\8.13\transforms\5948cc51a1514ef9f770da55993c5a0a\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Java JDK\caches\8.13\transforms\812b6c85e2ee4157313a76e53aef3a75\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Java JDK\caches\8.13\transforms\812b6c85e2ee4157313a76e53aef3a75\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Java JDK\caches\8.13\transforms\812b6c85e2ee4157313a76e53aef3a75\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] E:\Java JDK\caches\8.13\transforms\394c105eb65cb3974b98bbc4207791e0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] E:\Java JDK\caches\8.13\transforms\394c105eb65cb3974b98bbc4207791e0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] E:\Java JDK\caches\8.13\transforms\394c105eb65cb3974b98bbc4207791e0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.myapplicationbetat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.myapplicationbetat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] E:\Java JDK\caches\8.13\transforms\80266e8ba674608ca62023ac3b7958d9\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Java JDK\caches\8.13\transforms\7c9b735c990a0e398c0fbeb527ff207f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] E:\Java JDK\caches\8.13\transforms\075ac8668ebc0dfb67d8da7c6a091d28\transformed\core-common-2.0.3\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] E:\Java JDK\caches\8.13\transforms\075ac8668ebc0dfb67d8da7c6a091d28\transformed\core-common-2.0.3\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] E:\Java JDK\caches\8.13\transforms\075ac8668ebc0dfb67d8da7c6a091d28\transformed\core-common-2.0.3\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] E:\Java JDK\caches\8.13\transforms\075ac8668ebc0dfb67d8da7c6a091d28\transformed\core-common-2.0.3\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] E:\Java JDK\caches\8.13\transforms\075ac8668ebc0dfb67d8da7c6a091d28\transformed\core-common-2.0.3\AndroidManifest.xml:15:13-93
