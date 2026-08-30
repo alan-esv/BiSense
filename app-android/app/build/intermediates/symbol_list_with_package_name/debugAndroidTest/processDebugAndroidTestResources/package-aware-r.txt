@@ -1,3 +1,0 @@
-com.example.myapplicationbetat.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

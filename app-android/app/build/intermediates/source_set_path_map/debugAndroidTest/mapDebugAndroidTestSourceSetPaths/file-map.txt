@@ -1,7 +1,0 @@
-com.example.myapplicationbetat.test.app-androidTest-0 E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\build\generated\res\resValues\androidTest\debug
-com.example.myapplicationbetat.test.app-updated_navigation_xml-1 E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\build\generated\updated_navigation_xml\debugAndroidTest
-com.example.myapplicationbetat.test.app-mergeDebugAndroidTestResources-2 E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.myapplicationbetat.test.app-mergeDebugAndroidTestResources-3 E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.myapplicationbetat.test.app-debugAndroidTest-4 E:\Android\AndroidStudioProjects\MyApplicationbetaT\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
-com.example.myapplicationbetat.test.app-core-1.5.0-5 E:\Java JDK\caches\8.13\transforms\05386fc7a94d8f6cc8cf1b3ac23d5d5c\transformed\core-1.5.0\res
-com.example.myapplicationbetat.test.app-annotation-experimental-1.3.0-6 E:\Java JDK\caches\8.13\transforms\4386e332427c0f0edd0722534a4fc072\transformed\annotation-experimental-1.3.0\res
