@@ -20,9 +20,9 @@ El proyecto se divide en tres capas principales:
 * **Motor de Facturación PDF:** Generación automatizada de reportes financieros nativos desde la app, integrando un algoritmo de estimación basado en la **Tarifa Doméstica Tipo 1 de la CDMX**.
 
 ###Pantalla principal:
-![Dashboard](./docs/Screenshot_20260524_080519_BiSense.jpg)
+<img src="./docs/Screenshot_20260524_080519_BiSense.jpg" width="300">
 ###Pantalla de gráficas:
-![Dashboard](./docs/Screenshot_20260524_080518_BiSense.jpg)
+<img src="./docs/Screenshot_20260524_080528_BiSense.jpg" width="300">
 
 ## Stack Tecnológico
 
