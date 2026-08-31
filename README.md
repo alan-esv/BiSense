@@ -1,17 +1,27 @@
 # Sistema IoT de Monitoreo Energético Bidireccional
 
-BiSense es una solución integral de hardware y software diseñada para viviendas con sistemas de paneles solares. Permite a los usuarios monitorear en tiempo real su consumo eléctrico frente a la inyección de energía excedente a la red, facilitando la toma de decisiones para maximizar la eficiencia energética.
+BiSense es una solución integral de hardware y software diseñada para viviendas equipadas con paneles solares. El sistema permite a los usuarios monitorear en tiempo real su consumo eléctrico frente a la inyección de energía excedente a la red, facilitando la toma de decisiones para optimizar el gasto energético.
 
-## ✨ Características Principales
+## Documentación e Investigación Académica
+El desarrollo de este sistema está respaldado por investigación formal. Puedes consultar la arquitectura del hardware, la justificación del prototipo y la lógica de medición en el artículo técnico adjunto:
+**[Leer: Prototipo (PDF)](./docs/prototipo.pdf)**
 
-* **Sincronización IoT:** El hardware procesa lecturas automáticas cada 15 minutos y diagnostica la salud de la conexión inalámbrica en intervalos de 30 segundos.
-* **Diagnóstico en Pantalla:** Interfaz tipo semáforo que alerta visualmente al usuario si el hardware pierde conexión (ej. más de 5 minutos en silencio).
-* **Análisis de Datos Dinámico:** Gráficas interactivas con filtros de visualización (Consumo, Inyección o Combinado) y segmentación temporal (día, semana, mes, año).
-* **Motor de Reportes Financieros:** Generación de documentos PDF nativos desde la app que incluyen un algoritmo de estimación de facturación basado en la Tarifa Doméstica Tipo 1 de la CDMX.
+## Arquitectura del Sistema
 
-## 🛠️ Arquitectura y Stack Tecnológico
+El proyecto se divide en tres capas principales:
+1. **Hardware (Sensorización):** Microcontrolador ESP32 encargado de procesar lecturas automáticas de consumo/generación cada 15 minutos.
+2. **Backend (Nube):** Firebase gestiona la sincronización de datos en tiempo real y el diagnóstico de salud de la conexión inalámbrica.
+3. **Frontend (Móvil):** Aplicación nativa en Kotlin con arquitectura orientada a la visualización de datos y reportes.
 
-* **Aplicación Móvil:** Kotlin, Android Studio.
-* **Hardware Sensorial:** Microcontrolador ESP32, Sensores de Voltaje y Corriente.
-* **Base de Datos & Cloud:** Google Firebase.
-* **Diseño UI:** Figma.
+## Funcionalidades Principales
+
+* **Sincronización y Diagnóstico:** El sistema alerta visualmente si el hardware pierde conexión con la red o deja de transmitir datos.
+* **Dashboard Interactivo:** Gráficas de análisis dinámico con filtros de visualización (Consumo, Inyección o Combinado) y segmentación temporal.
+* **Motor de Facturación PDF:** Generación automatizada de reportes financieros nativos desde la app, integrando un algoritmo de estimación basado en la **Tarifa Doméstica Tipo 1 de la CDMX**.
+
+## Stack Tecnológico
+
+- **Lenguaje:** Kotlin
+- **IDE:** Android Studio
+- **Base de Datos:** Firebase (Realtime Database)
+- **Hardware:** C++ (ESP32)
