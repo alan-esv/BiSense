@@ -19,10 +19,9 @@ El proyecto se divide en tres capas principales:
 * **Dashboard Interactivo:** Gráficas de análisis dinámico con filtros de visualización (Consumo, Inyección o Combinado) y segmentación temporal.
 * **Motor de Facturación PDF:** Generación automatizada de reportes financieros nativos desde la app, integrando un algoritmo de estimación basado en la **Tarifa Doméstica Tipo 1 de la CDMX**.
 
-###Pantalla principal:
-<img src="./docs/Screenshot_20260524_080519_BiSense.jpg" width="300">
-###Pantalla de gráficas:
-<img src="./docs/Screenshot_20260524_080528_BiSense.jpg" width="300">
+| Pantalla Principal | Pantalla de Gráficas |
+| :---: | :---: |
+| <img src="./docs/Screenshot_20260524_080519_BiSense.jpg" width="250"> | <img src="./docs/Screenshot_20260524_080528_BiSense.jpg" width="250"> |
 
 ## Stack Tecnológico
 
